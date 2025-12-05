@@ -1,20 +1,21 @@
 
-# 🚀 **Breadth-First Search Pathfinding Visualizer (Python + Pygame)**
+# 🚀 **Breadth-First Search Pathfinding Visualizer 
+(Python + Pygame)**
 
 A clean, interactive, and visually appealing implementation of the **Breadth-First Search (BFS)** pathfinding algorithm using **Python** and **Pygame**.
 Draw obstacles, set your start & end points, and watch the algorithm explore the grid in real time.
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Pygame](https://img.shields.io/badge/Pygame-Latest-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)
+
 
 
 ---
 
 ## 🌟 **Preview**
 
-![Preview](/preview.png)
+![Preview](preview.png)
 
 ---
 
@@ -71,8 +72,8 @@ BFS explores the grid **level by level**, using a **queue**, guaranteeing the **
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/KrVikashGupta/BFS-Pathfinder.git
-cd BFS-Pathfinder
+git clone https://github.com/KrVikashGupta/bfs-pathfinding-visualizer.git
+cd breadth-first-search
 
 ```
 
