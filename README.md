@@ -1,6 +1,5 @@
 
-# 🚀 **Breadth-First Search Pathfinding Visualizer 
-(Python + Pygame)**
+# 🚀 **Breadth-First Search Pathfinding Visualizer (Python + Pygame)**
 
 A clean, interactive, and visually appealing implementation of the **Breadth-First Search (BFS)** pathfinding algorithm using **Python** and **Pygame**.
 Draw obstacles, set your start & end points, and watch the algorithm explore the grid in real time.
