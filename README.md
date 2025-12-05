@@ -14,7 +14,7 @@ Draw obstacles, set your start & end points, and watch the algorithm explore the
 
 ## 🌟 **Preview**
 
-![Preview](preview.png)
+![Preview](breadth-first-search/preview.png)
 
 ---
 
